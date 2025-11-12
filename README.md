@@ -9,7 +9,7 @@
 Recreate the following landing page section based on the provided reference image.  
 You are expected to:
 - Write clean, modular React code
-- Use Tailwind CSS for layout and styling
+- Use Tailwind/CSS for layout and styling
 - Implement basic interactivity with React state
 
 ---
@@ -49,7 +49,7 @@ You are expected to:
 
 ## ⚙️ Technical Guidelines
 - Use **React functional components** (hooks allowed).
-- Use **Tailwind CSS** only for styling (no other CSS frameworks).
+- Use **Tailwind / CSS** only for styling (no other CSS frameworks).
 - You may use **Vite** or **Create React App** (your choice).
 - Focus on clean, maintainable component structure.
 
